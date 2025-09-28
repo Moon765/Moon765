@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-mahadi-hasan-moon-a5b5b9187/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a>
   <a href="mailto:mahadihasanmoon95@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
