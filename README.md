@@ -76,6 +76,10 @@ I bridge **traditional engineering tools (MATLAB, AutoCAD, PLCs)** with **modern
     <td>🔥 <a href="https://github.com/Moon765/WILDFIRE-DETECTION-USING-DEEP-LEARNING">Wildfire Detection (Deep Learning)</a></td>
     <td>Image classification (fire vs no fire) using pretrained CNNs (ResNet18, VGG16)</td>
   </tr>
+  <tr>
+    <td>🔥 <a href="https://github.com/Moon765/Design-and-Implementation-of-a-Vault-Security-System">Design & Implementation of a Vault Security System</a></td>
+    <td>Multi-factor vault security with Face Recognition (OpenCV), Fingerprint, Password (4×4 Keypad) & RFID on Raspberry Pi</td>
+  </tr>
 </table>
 
 ---
