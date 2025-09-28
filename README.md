@@ -16,9 +16,11 @@
 ---
 
 ## 🚀 Professional Overview
-I am an **Electrical & Computer Engineer (MEng, University of Calgary)** specializing in **Energy & Environment**, with strong expertise in **industrial automation, renewable energy systems, and intelligent control**.  
+I grew up surrounded by electricity—both of my parents worked for a power distribution company, and my childhood home was right next to a substation. That environment ignited my curiosity early. By the age of eight, I was already dismantling my electronic toys to understand how they worked.  
 
-I bridge **traditional engineering tools (MATLAB, AutoCAD, PLCs)** with **modern programming & AI (Python, ML, Deep Learning)**, creating **smart automation solutions** for industry and research.  
+That curiosity shaped my academic and professional path. During my bachelor’s, I started with Arduino projects, competing in robotics and automation challenges. Later, I switched to Raspberry Pi for more computing power, completing my final BSc project with Python. When I began my master’s, I realized that industrial control systems demand robustness beyond hobbyist platforms. This discovery led me to PLC programming, where I quickly adapted and built strong expertise.  
+
+Today, I bring together my foundation in **automation, control, and energy systems** with hands-on skills in **PLCs, MATLAB/Simulink, and Python/AI**, designing smarter, reliable, and future-focused engineering solutions. Outside of engineering, I enjoy traveling, biking, and occasionally gaming when indoors.  
 
 ---
 
@@ -77,8 +79,8 @@ I bridge **traditional engineering tools (MATLAB, AutoCAD, PLCs)** with **modern
     <td>Image classification (fire vs no fire) using pretrained CNNs (ResNet18, VGG16)</td>
   </tr>
   <tr>
-    <td>🔥 <a href="https://github.com/Moon765/Design-and-Implementation-of-a-Vault-Security-System">Design & Implementation of a Vault Security System</a></td>
-    <td>Multi-factor vault security with Face Recognition (OpenCV), Fingerprint, Password (4×4 Keypad) & RFID on Raspberry Pi</td>
+    <td>🔐 <a href="https://github.com/Moon765/Design-and-Implementation-of-a-Vault-Security-System">Vault Security System</a></td>
+    <td>Multi-factor vault security with Face Recognition (OpenCV), Fingerprint, Password (Keypad) & RFID on Raspberry Pi</td>
   </tr>
 </table>
 
@@ -117,5 +119,5 @@ I bridge **traditional engineering tools (MATLAB, AutoCAD, PLCs)** with **modern
 </p>
 
 <p align="center">
-  <i>“Engineering smarter, cleaner, and more automated systems ⚡🌱🤖”</i>
+  <i>“Engineering smarter, cleaner, and more automated systems”</i>
 </p>
