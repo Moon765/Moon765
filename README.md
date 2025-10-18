@@ -85,15 +85,23 @@ Today, I bring together my foundation in **automation, control, and energy syste
 
 ---
 
-## 🏆 Experience
-- **Assistant Design Engineer – Akashpodyo Engineering Solutions**  
-  - Electrical & fire safety design (residential & industrial)  
-  - AutoCAD drafting, load analysis, BOQ preparation  
-  - Client-based project collaboration & compliance  
+<h2>🏆 Experience</h2>
 
-- **Engineering Intern – Poles and Concrete Ltd.**  
-  - Utility pole manufacturing process  
-  - Electrical infrastructure exposure, documentation, equipment inspection  
+<div>
+  <p>
+    <strong>Poles and Concrete Ltd. — Assistant Process Engineer (Electrical)</strong><br/>
+    <em>Nov 2021 – Jul 2023 · Spun/prestressed concrete poles &amp; PHC piles</em>
+  </p>
+  <ul>
+    <li>Owned the plant’s <strong>11/0.4 kV</strong> distribution, LV switchboard/MCCs, and <strong>PFI/APFC</strong>—kept PF high, demand controlled, and <strong>kWh/pole</strong> tracked.</li>
+    <li>Commissioned and maintained <strong>motors/drives</strong> for mixers, spinning lathes, fans, compressors; set protection (ACB/MCCB/overloads), tuned starters/VFDs, and cut nuisance trips.</li>
+    <li><strong>PLC/HMI (process-facing):</strong> managed recipes, setpoints, and alarm thresholds; trended I/O &amp; sequence states; kept backups and historian tags current; escalated logic issues to the OEM when needed.</li>
+    <li>Ensured electrical reliability for batching, prestress, and curing: earthing/SPDs, cable terminations, panel thermal scans, and critical instrument calibration (load cells, RTDs, pressure).</li>
+    <li>Improved utilities performance (compressors, boiler auxiliaries, dust collection) through energy/uptime monitoring and targeted maintenance windows.</li>
+    <li>Led fault diagnosis &amp; vendor coordination for electrical issues; maintained SLDs, protection settings, and <strong>ISO 9001</strong> audit records (SOPs, calibration, CAPA).</li>
+  </ul>
+</div>
+
 
 ---
 
